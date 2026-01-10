@@ -31,5 +31,22 @@ pkg install cloudflared -y
 pip install colorama
 git clone https://github.com/his-bullah/ShadowBridge.git
 cd ShadowBridge
-python Shadow.py settings
-python Shadow.py start
+python Shadow.pyc settings
+
+---
+
+## 💥Boom Tool is ready🎉
+
+Run tool: python Shadow.pyc start
+
+---
+
+## Need help for Tool
+
+Run this: python Shadow.pyc h
+
+---
+
+## 🙋 Author Info
+
+**Instagram**: hi5bu114h
