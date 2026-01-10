@@ -59,6 +59,4 @@ Run this: python Shadow.pyc h
 
 ---
 
-## 🙋 Author Info
-
-**Instagram**: hi5bu114h
+- **Instagram:** 🔗 [hi5bu114h](https://instagram.com/hi5bu114h)
