@@ -16,7 +16,7 @@ A silent mobile control bridge running in the shadows.
 
 ## ⚙️ Installation Guide
 
-1. Install **Termux** and **Termux:API** from Play Store / F-Droid  
+1. Install **Termux** and **Termux:API** from F-Droid  
 2. Open **Termux**  
 3. Run the following commands **one by one**:
 
@@ -29,3 +29,7 @@ pkg install python -y
 pkg install termux-api -y
 pkg install cloudflared -y
 pip install colorama
+git clone https://github.com/his-bullah/ShadowBridge.git
+cd ShadowBridge
+python Shadow.py settings
+python Shadow.py start
