@@ -4,6 +4,16 @@ A silent mobile control bridge running in the shadows.
 
 ---
 
+## ⚠️ Warnings & Compatibility
+
+- 📱 **This tool works only on Android devices**
+- ✅ **Stable and tested on Android versions below 12**
+- ❌ **Not stable on Android 13 and above**
+
+> ⚠️ If you are using **Android 13+**, some features may not work or may fail completely.
+
+---
+
 ## 📱 Requirements
 
 - Android device  
