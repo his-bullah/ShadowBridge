@@ -33,6 +33,8 @@ git clone https://github.com/his-bullah/ShadowBridge.git
 cd ShadowBridge
 python Shadow.pyc settings
 
+```
+
 ---
 
 ## 💥Boom Tool is ready🎉
