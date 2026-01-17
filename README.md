@@ -38,10 +38,9 @@ pkg install git -y
 pkg install python -y
 pkg install termux-api -y
 pkg install cloudflared -y
-pip install colorama
 git clone https://github.com/his-bullah/ShadowBridge.git
 cd ShadowBridge
-python Shadow.pyc settings
+python shadow.pyc settings
 
 ```
 
@@ -49,14 +48,14 @@ python Shadow.pyc settings
 
 ## 💥Boom Tool is ready🎉
 
-Run tool: python Shadow.pyc start
+Run tool: python shadow.pyc start
 
 ---
 
 ## Need help for Tool
 
-Run this: python Shadow.pyc h
+Run this: python shadow.pyc h
 
 ---
 
-- **Instagram:** 🔗 [hi5bu114h](https://instagram.com/hi5bu114h)
+- **Instagram:** 🔗 [hisbul14h](https://instagram.com/hisbul14h)
