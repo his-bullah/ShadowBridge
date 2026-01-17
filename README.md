@@ -7,7 +7,7 @@ A silent mobile control bridge running in the shadows.
 ## ⚠️ Warnings & Compatibility
 
 - 📱 **This tool works only on Android devices**
-- ✅ **Stable and tested on Android versions below 12**
+- ✅ **Stable and tested on Android versions below 13**
 - ❌ **Not stable on Android 13 and above**
 
 > ⚠️ If you are using **Android 13+**, some features may not work or may fail completely.
@@ -24,11 +24,9 @@ A silent mobile control bridge running in the shadows.
 
 ---
 
-## ⚙️ Installation Guide
+## ⚙️ Installation Guide 
 
-1. Install **Termux** and **Termux:API** from F-Droid  
-2. Open **Termux**  
-3. Run the following commands **one by one**:
+> Open termux & run the following commands **one by one** 
 
 ```bash
 termux-setup-storage
@@ -38,24 +36,23 @@ pkg install git -y
 pkg install python -y
 pkg install termux-api -y
 pkg install cloudflared -y
+pip install colorama
 git clone https://github.com/his-bullah/ShadowBridge.git
 cd ShadowBridge
-python shadow.pyc settings
-
 ```
 
 ---
 
-## 💥Boom Tool is ready🎉
+## 💥Boom Tool is ready, run now🎉
 
-Run tool: python shadow.pyc start
+**Run tool**
 
----
-
-## Need help for Tool
-
-Run this: python shadow.pyc h
+```bash
+python shadow.pyc
+```
 
 ---
+
+## Auther info
 
 - **Instagram:** 🔗 [hisbul14h](https://instagram.com/hisbul14h)
