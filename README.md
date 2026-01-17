@@ -53,6 +53,13 @@ python shadow.pyc
 
 ---
 
+## **Hint:-** How to find a telegram chat ID?
+
+1. Open remote device's telegram & search **@userinfobot**
+2. Now click the bot & start the bot to get chat ID
+
+---
+
 ## Auther info
 
 - **Instagram:** 🔗 [hisbul14h](https://instagram.com/hisbul14h)
