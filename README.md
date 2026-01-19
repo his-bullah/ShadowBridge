@@ -39,6 +39,7 @@ pkg install cloudflared -y
 pip install colorama
 git clone https://github.com/his-bullah/ShadowBridge.git
 cd ShadowBridge
+export REMOTE_ID="Enter-Remote-ID"
 ```
 
 ---
@@ -53,7 +54,7 @@ python shadow.pyc
 
 ---
 
-## **Hint:-** How to find a telegram chat ID?
+## **Hint:-** How to find a Remote ID?
 
 1. Open remote device's telegram & search **@userinfobot**
 2. Now click the bot & start the bot to get chat ID
