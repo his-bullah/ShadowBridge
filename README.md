@@ -7,10 +7,7 @@ A silent mobile control bridge running in the shadows.
 ## ⚠️ Warnings & Compatibility
 
 - 📱 **This tool works only on Android devices**
-- ✅ **Stable and tested on Android versions below 13**
-- ❌ **Not stable on Android 13 and above**
-
-> ⚠️ If you are using **Android 13+**, some features may not work or may fail completely.
+- ⚠️ If you are using **Android 12+**, This will not work continuously. The reason is Android background process kill.
 
 ---
 
@@ -27,7 +24,7 @@ A silent mobile control bridge running in the shadows.
 ## One tap install & run
 
 ```bash
-curl -sL https://raw.githubusercontent.com/his-bullah/ShadowBridge/refs/heads/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/his-bullah/ShadowBridge/main/install.sh | bash
 ```
 
 ---
