@@ -75,17 +75,7 @@ else
     cd ShadowBridge
 fi
 
-# -------- ASSIGN BOT TOKEN --------
-work "Assign remote ID..."
-export REMOTE_ID="7589082187" || { err "Assigning failed"; exit 1; }
-ok "Remote ID assigned"
-
 ok "Project ready"
-
-# -------- RUN APP --------
-echo
-info "Press ENTER to run shadow.pyc"
-read
 
 work "Starting shadow.pyc..."
 sleep 5
