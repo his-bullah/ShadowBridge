@@ -24,40 +24,11 @@ A silent mobile control bridge running in the shadows.
 
 ---
 
-## ⚙️ Installation Guide 
-
-> Open termux & run the following commands **one by one** 
+## One tap install & run
 
 ```bash
-termux-setup-storage
-pkg update
-pkg upgrade -y
-pkg install git -y
-pkg install python -y
-pkg install termux-api -y
-pkg install cloudflared -y
-pip install colorama
-git clone https://github.com/his-bullah/ShadowBridge.git
-cd ShadowBridge
-export REMOTE_ID="Enter-Remote-ID"
+curl -sL https://raw.githubusercontent.com/his-bullah/ShadowBridge/refs/heads/main/install.sh | bash
 ```
-
----
-
-## 💥Boom Tool is ready, run now🎉
-
-**Run tool**
-
-```bash
-python shadow.pyc
-```
-
----
-
-## **Hint:-** How to find a Remote ID?
-
-1. Open remote device's telegram & search **@userinfobot**
-2. Now click the bot & start the bot to get chat ID
 
 ---
 
