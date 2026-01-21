@@ -59,6 +59,11 @@ work "Installing git..."
 pkg install -y git || { err "Git install failed"; exit 1; }
 ok "Git installed"
 
+# -------- INSTALL REQUESTS--------
+work "Installing requests(pip)..."
+pip install --no-cache-dir requests || { err "requests install failed"; exit 1; }
+ok "requests installed"
+
 # -------- INSTALL COLORAMA --------
 work "Installing colorama(pip)..."
 pip install --no-cache-dir colorama || { err "colorama install failed"; exit 1; }
